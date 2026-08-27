@@ -1,0 +1,23 @@
+# Apoorva Fernandes — Data & Database Portfolio
+
+Independent projects in PostgreSQL, TimescaleDB, and time-series data
+engineering, built while preparing for database support/analytics roles.
+
+## 🔧 Focus Areas
+- Time-series database design (hypertables, chunking, compression)
+- Query performance tuning & diagnostics
+- Production-style troubleshooting documentation
+
+## 📂 Projects
+
+| Repo | What it covers |
+|---|---|
+| [timescaledb-query-optimization](#) | Chunk sizing, continuous aggregates, compression — with before/after `EXPLAIN ANALYZE` benchmarks |
+| [timescaledb-troubleshooting-playbook](#) | Runbooks for common TimescaleDB failure modes: symptom → diagnosis → fix → prevention |
+| [iot-sensor-timeseries-pipeline](#) | End-to-end ingestion pipeline with retention policies and a dashboard |
+
+## 🛠️ Tools
+PostgreSQL · TimescaleDB · Python · SQL · Docker
+
+## 📫 Contact
+[Portfolio site](https://apoorva-fernandes.github.io) · [LinkedIn](#)
