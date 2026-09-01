@@ -14,7 +14,7 @@ engineering, built while preparing for database support/analytics roles.
 |---|---|
 | [timescaledb-query-optimization](https://github.com/apoorvamaria-1707/timescaledb-query-optimization) | Chunk sizing, continuous aggregates, compression — with before/after `EXPLAIN ANALYZE` benchmarks |
 | [timescaledb-troubleshooting-playbook](https://github.com/apoorvamaria-1707/timescaledb-troubleshooting-playbook) | Runbooks for common TimescaleDB failure modes: symptom → diagnosis → fix → prevention |
-| [iot-sensor-timeseries-pipeline](#) | End-to-end ingestion pipeline with retention policies and a dashboard |
+| [iot-sensor-timeseries-pipeline](https://github.com/apoorvamaria-1707/iot-sensor-timeseries-pipeline) | End-to-end ingestion pipeline with retention policies and a dashboard |
 
 ## 🛠️ Tools
 PostgreSQL · TimescaleDB · Python · SQL · Docker
