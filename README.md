@@ -12,7 +12,7 @@ engineering, built while preparing for database support/analytics roles.
 
 | Repo | What it covers |
 |---|---|
-| [timescaledb-query-optimization](#) | Chunk sizing, continuous aggregates, compression — with before/after `EXPLAIN ANALYZE` benchmarks |
+| [timescaledb-query-optimization](https://github.com/apoorvamaria-1707/timescaledb-query-optimization) | Chunk sizing, continuous aggregates, compression — with before/after `EXPLAIN ANALYZE` benchmarks |
 | [timescaledb-troubleshooting-playbook](#) | Runbooks for common TimescaleDB failure modes: symptom → diagnosis → fix → prevention |
 | [iot-sensor-timeseries-pipeline](#) | End-to-end ingestion pipeline with retention policies and a dashboard |
 
