@@ -20,4 +20,4 @@ engineering, built while preparing for database support/analytics roles.
 PostgreSQL · TimescaleDB · Python · SQL · Docker
 
 ## 📫 Contact
-[Portfolio site](https://apoorva-fernandes.github.io) · [LinkedIn](https://www.linkedin.com/in/apoorva-maria-fernandes-339a61232/)
+[Portfolio site](https://github.com/apoorvamaria-1707/APOORVA-PORTFOLIO) · [LinkedIn](https://www.linkedin.com/in/apoorva-maria-fernandes-339a61232/)
